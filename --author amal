@@ -1,0 +1,59 @@
+[33mcommit c25974a89d2d862bb844f7faea59c06856c7e3f7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: comrider <amalcdac521@gmail.com>
+Date:   Tue Oct 25 13:17:47 2022 +0530
+
+    this is a file that i just created on the branch.
+
+[33mcommit c5469fed76acc7101af10e8f94e1af2dd7a16084[m
+Author: comrider <amalcdac521@gmail.com>
+Date:   Tue Oct 25 13:10:06 2022 +0530
+
+    Revert "latest commit"
+    am reverting to the commit which is made before the previous one.
+    This reverts commit 799c0a7b5e4d41fd6ed1148a8e36b18a2a36ef1f.
+
+[33mcommit 10a03357d3fbf3ef7dca45abe387d8d8142efdcf[m
+Author: comrider <amalcdac521@gmail.com>
+Date:   Tue Oct 25 13:04:22 2022 +0530
+
+    testing ammend in git
+    other file are added to the staging area
+
+[33mcommit 799c0a7b5e4d41fd6ed1148a8e36b18a2a36ef1f[m
+Author: comrider <amalcdac521@gmail.com>
+Date:   Tue Oct 25 12:12:00 2022 +0530
+
+    latest commit
+
+[33mcommit e097809dc2a02d5ee08566e66478cafc9119cd0c[m
+Author: comrider <amalcdac521@gmail.com>
+Date:   Tue Oct 25 11:36:31 2022 +0530
+
+    just combained two commits
+    
+    this is a sample commit i just made to the file
+    
+    this is a test messge in which i have made some changes to 1.txt file
+
+[33mcommit 859e46977860fea43a93226d1430c92a8fd1f0a1[m
+Author: comrider <amalcdac521@gmail.com>
+Date:   Tue Oct 25 10:56:32 2022 +0530
+
+    this is the third file i just uploaded now
+    i thought it might be better to modify this commit, i think it is better for me to change the commit message.
+    am going to undo these changes that i made to this repository.
+
+[33mcommit 25a70a0b46c4a77412bc075efcc6821343af7536[m
+Author: comrider <amalcdac521@gmail.com>
+Date:   Tue Oct 25 10:55:11 2022 +0530
+
+    just added the third file now
+
+[33mcommit cd0c96e01ed1f7219ec09fb2a5cec9f4dc10c621[m
+Author: comrider <amalcdac521@gmail.com>
+Date:   Tue Oct 25 10:44:25 2022 +0530
+
+    learning practice 1
+    
+    just adding few file to the local repo
+    - added a single file now.
